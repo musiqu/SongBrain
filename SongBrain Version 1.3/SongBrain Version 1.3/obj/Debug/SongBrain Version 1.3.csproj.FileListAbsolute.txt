@@ -1,0 +1,11 @@
+C:\Users\Quinn\Documents\Apps\SongBrain\SongBrain version 1.3 (C#)\SongBrain Version 1.3\SongBrain Version 1.3\bin\Debug\SongBrain Version 1.3.exe.config
+C:\Users\Quinn\Documents\Apps\SongBrain\SongBrain version 1.3 (C#)\SongBrain Version 1.3\SongBrain Version 1.3\bin\Debug\SongBrain Version 1.3.exe
+C:\Users\Quinn\Documents\Apps\SongBrain\SongBrain version 1.3 (C#)\SongBrain Version 1.3\SongBrain Version 1.3\bin\Debug\SongBrain Version 1.3.pdb
+C:\Users\Quinn\Documents\Apps\SongBrain\SongBrain version 1.3 (C#)\SongBrain Version 1.3\SongBrain Version 1.3\obj\Debug\SongBrain Version 1.3.exe
+C:\Users\Quinn\Documents\Apps\SongBrain\SongBrain version 1.3 (C#)\SongBrain Version 1.3\SongBrain Version 1.3\obj\Debug\SongBrain Version 1.3.pdb
+C:\Users\Quinn\Documents\Apps\SongBrain\SongBrain version 1.3 (C#)\SongBrain Version 1.3\SongBrain Version 1.3\bin\Debug\SongBrain Version 1.3.exe.manifest
+C:\Users\Quinn\Documents\Apps\SongBrain\SongBrain version 1.3 (C#)\SongBrain Version 1.3\SongBrain Version 1.3\bin\Debug\SongBrain Version 1.3.application
+C:\Users\Quinn\Documents\Apps\SongBrain\SongBrain version 1.3 (C#)\SongBrain Version 1.3\SongBrain Version 1.3\obj\Debug\SongBrain Version 1.3.csprojAssemblyReference.cache
+C:\Users\Quinn\Documents\Apps\SongBrain\SongBrain version 1.3 (C#)\SongBrain Version 1.3\SongBrain Version 1.3\obj\Debug\SongBrain Version 1.3.csproj.CoreCompileInputs.cache
+C:\Users\Quinn\Documents\Apps\SongBrain\SongBrain version 1.3 (C#)\SongBrain Version 1.3\SongBrain Version 1.3\obj\Debug\SongBrain Version 1.3.exe.manifest
+C:\Users\Quinn\Documents\Apps\SongBrain\SongBrain version 1.3 (C#)\SongBrain Version 1.3\SongBrain Version 1.3\obj\Debug\SongBrain Version 1.3.application
